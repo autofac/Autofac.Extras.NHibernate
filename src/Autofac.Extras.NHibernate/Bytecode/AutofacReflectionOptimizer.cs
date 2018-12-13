@@ -1,6 +1,6 @@
 ﻿// This software is part of the Autofac IoC container
 // Copyright (c) 2013 Autofac Contributors
-// http://autofac.org
+// https://autofac.org
 //
 // Permission is hereby granted, free of charge, to any person
 // obtaining a copy of this software and associated documentation
@@ -57,7 +57,7 @@ namespace Autofac.Extras.NHibernate.Bytecode
         {
             if (_container.IsRegistered(mappedType))
                 return _container.Resolve(mappedType);
-            
+
             return _container.IsRegisteredWithName(mappedType.FullName, mappedType)
                        ? _container.ResolveNamed(mappedType.FullName, mappedType)
                        : base.CreateInstance();

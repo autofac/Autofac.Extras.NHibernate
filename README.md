@@ -1,5 +1,5 @@
 # Autofac.Extras.NHibernate
-[Autofac](http://autofac.org) implementation of the NHibernate factories that allow for dependency injection into entities and NHibernate objects.
+[Autofac](https://autofac.org) implementation of the NHibernate factories that allow for dependency injection into entities and NHibernate objects.
 
 [![Build status](https://ci.appveyor.com/api/projects/status/vpkf5dlbw5ehfeng?svg=true)](https://ci.appveyor.com/project/Autofac/autofac-extras-nhibernate)
 
@@ -8,4 +8,4 @@
 Please file issues and pull requests for this package in this repository rather than in the Autofac core repo.
 
 - [NuGet](https://www.nuget.org/packages/Autofac.Extras.NHibernate/)
-- [Contributing](http://autofac.readthedocs.org/en/latest/contributors.html)
+- [Contributing](https://autofac.readthedocs.io/en/latest/contributors.html)
