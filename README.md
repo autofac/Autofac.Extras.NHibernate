@@ -4,7 +4,7 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/vpkf5dlbw5ehfeng?svg=true)](https://ci.appveyor.com/project/Autofac/autofac-extras-nhibernate)
 
-> :warning: **MAINTENANCE MODE**: This package is in maintenance-only mode. Bug fixes may be addressed and Autofac compatibility may be checked but no new features will be added.
+> :warning: **PROJECT ARCHIVED**: This package was put into maintenance-only mode in 2015 and was subsequently archived with no intent to continue any level of support in 2026.
 
 Please file issues and pull requests for this package in this repository rather than in the Autofac core repo.
 
